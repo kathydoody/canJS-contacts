@@ -1,4 +1,4 @@
 Basic contacts demo using can.fixture to serve up static data.
 
 Does have the ability to filter, delete and add contacts but data is
-not persited to ant DB
+not persisted to ant DB
